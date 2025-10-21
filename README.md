@@ -1,4 +1,4 @@
-# cuddly-funicular
+# 五星红旗
 import turtle
 screen = turtle.Screen()
 screen.setup(900, 600)
